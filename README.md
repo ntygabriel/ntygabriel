@@ -1,5 +1,4 @@
-## Olá, eu sou o Antony Gabriel
+## Olá, sou Antony Gabriel
 
-- 📚 Estudando redes e programação em python
-- 👜 Bolsista voluntário no Laboratório Huawei IFCE Fortaleza
-- 🙂 Pronomes: ele/dele
+Estudante de Sistemas e Mídias Digitais na UFC | Estagiário de Suporte Técnico na UniAteneu
+Aprimorando e aplicando conhecimentos em desenvolvimento web com foco em HTML, CSS e JavaScript.
