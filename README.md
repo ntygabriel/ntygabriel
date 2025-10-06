@@ -14,6 +14,6 @@ Estudante de Sistemas e Mídias Digitais na UFC | Estagiário de Suporte Técnic
 
 ### Idiomas
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo</br>
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês Básico
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês Básico/Intermediário
 
 ---
