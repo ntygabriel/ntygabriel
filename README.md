@@ -9,7 +9,7 @@ Estudante de Sistemas e Mídias Digitais na UFC | Estagiário de Suporte Técnic
 
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/antonyfreire)
 &nbsp;&nbsp;
-<a href="mailto:antonygabriel3008@gmail.com" target="__blank">antonygabriel3008@gmail.com</a>
+[![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:antonygabriel3008@gmail.com)
 
 
 ### Idiomas
