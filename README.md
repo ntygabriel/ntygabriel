@@ -1,18 +1,14 @@
-# Olá, sou Antony Gabriel 👋
-
+# Olá, sou Antony Gabriel
 Estudante de Sistemas e Mídias Digitais na UFC 
 
-### 🛠️ Tecnologias e Habilidades
+### Tecnologias e Habilidades
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,astro,tailwind,p5js,processing)](https://skillicons.dev)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,p5js,processing)](https://skillicons.dev)
-
-### 📬 Contato & Redes Sociais
-
+### Contato & Redes Sociais
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/antonyfreire)
 &nbsp;&nbsp;
 [![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:antonygabriel3008@gmail.com)
-&nbsp;
 
-### 🌐 Idiomas
+### Idiomas
 - ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo
 - ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês Básico/Intermediário
