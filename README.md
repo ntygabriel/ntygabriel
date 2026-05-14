@@ -1,14 +1,25 @@
-# Olá, sou Antony Gabriel
-Estudante de Sistemas e Mídias Digitais na UFC 
+# Antony Gabriel
 
-### Tecnologias e Habilidades
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,astro,tailwind,p5js,processing)](https://skillicons.dev)
+Estudante de Sistemas e Mídias Digitais na UFC (conclusão: 2028).
+Tenho base em desenvolvimento web front-end e estou em transição
+para back-end — atualmente estudando lógica de programação e Python.
 
-### Contato & Redes Sociais
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/antonyfreire)
-&nbsp;&nbsp;
-[![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:antonygabriel3008@gmail.com)
+---
 
-### Idiomas
-- ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Português Nativo
-- ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Inglês Básico/Intermediário
+## O que sei usar
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+
+---
+
+## Projetos
+
+*(em breve — construindo os primeiros projetos práticos)*
+
+---
+
+## Contato
+
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/antonyfreire)
+&nbsp;
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:antonygabriel3008@gmail.com)
